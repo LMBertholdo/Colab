@@ -1,0 +1,2 @@
+ssh: Could not resolve hostname remote_server_ip: nodename nor servname provided, or not known
+bash: jupyter: command not found
